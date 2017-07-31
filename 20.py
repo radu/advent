@@ -4,7 +4,6 @@ import sys
 import re
 
 full = [(0,4294967295)]
-#full = [(0,9)]
 
 def remove_from(rng, low, high):
     newrange = []
